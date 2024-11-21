@@ -176,6 +176,7 @@ section {
   z-index: 10;
   top: 30%;
   right: 95%;
+  margin:-30px;
   display: flex;
   flex-direction: column;
   transform: translateY(-50%);
