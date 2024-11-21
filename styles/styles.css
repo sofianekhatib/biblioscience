@@ -177,9 +177,7 @@ section {
   top: 30%;
   right: 95%;
   display: flex;
-  margin: -30px;
   flex-direction: column;
- text-align: start;
   transform: translateY(-50%);
 }
 
